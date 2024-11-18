@@ -1,0 +1,6 @@
+Line 1: Hello, welcome to file handling.
+Line 2: Today is a great day to learn Python.
+Line 3: Python version 3.10 is amazing.
+Line 4: This is an appended line.
+Line 5: Adding more data for testing purposes.
+Line 6: Appending the final line to the file.
