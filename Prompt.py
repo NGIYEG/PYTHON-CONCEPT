@@ -17,3 +17,6 @@ print("\nDetails:")
 print("First name:{}".format(fn))
 print("second name:{}".format(sn))
 print("Email address:{}".format(em))
+
+
+# Write a program that can prompt the user to enter first name,second name and email.and on inputting the password it prints the first name,second name and email
